@@ -36,6 +36,7 @@
   ],
   "dependencies": {
     "@ungap/custom-elements": "^1.1.0",
+    "aframe": "^1.5.0",
     "buffer": "^6.0.3",
     "custom-event-polyfill": "^1.0.6",
     "debug": "ngokevin/debug#noTimestamp",

@@ -468,7 +468,7 @@ You can convert GitHub URLs to  JSDELIVR URLs using this link: https://www.jsdel
 ![Community Components Example](https://cloud.githubusercontent.com/assets/674727/25502318/0f76ceec-2b4b-11e7-9829-cb3784b20dc1.gif)
 
 Below is a complete example of using various community components from the
-Registry and using the JSDELIVR CDN.  This example can also be viewed in the [A-Frame Examples][community-example].
+Registry and using the JSDELIVR CDN.  This example can also be viewed in the [WEB VR][community-example].
 
 ```html
 <html>
